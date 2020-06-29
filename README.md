@@ -29,7 +29,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/40784518/73843413-f359d600-4861-11ea-9152-4621cd453f77.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/40784518/73843413-f359d600-4861-11ea-9152-4621cd453f77.png" width="30%"></img>
 
 
 
@@ -118,7 +118,7 @@ card class 안에서 패턴과 숫자를 함께 표시하기에 열거형이 접
 3. 하위 객체 속성에 간접 접근하도록 dealer와 player 안에 메소드 추가
 4. 테스트 코드 변경
 
-<img src="https://user-images.githubusercontent.com/40784518/75237536-dd0cbd80-5802-11ea-8cb4-41f28e9217a6.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/40784518/75237536-dd0cbd80-5802-11ea-8cb4-41f28e9217a6.png" width="30%"></img>
 
 
 
@@ -150,7 +150,7 @@ card class 안에서 패턴과 숫자를 함께 표시하기에 열거형이 접
 - 클로저를 이용해서 연결된 구조에 동작을 넘겨준다는 것이 잘 와닿지 않았는데, 피드백 반영하며 코드 수정하면서 어제보다는 클로저에 대해 좀 더 이해하게 된 것 같다.
 - VC > PokerGame > Player > Card 로 접근했었는데, 플레이어별로 카드의 구분 없이 한꺼번에 가져오게 되어 Players 클래스를 추가로 만들었다.
 
-<img src="https://user-images.githubusercontent.com/40784518/74433200-4e637c80-4ea3-11ea-9bf9-33dccf460c26.png" width="50%"></img><img src="https://user-images.githubusercontent.com/40784518/74433246-64713d00-4ea3-11ea-8693-4c97a1508eab.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/40784518/74433200-4e637c80-4ea3-11ea-9bf9-33dccf460c26.png" width="30%"></img><img src="https://user-images.githubusercontent.com/40784518/74433246-64713d00-4ea3-11ea-8693-4c97a1508eab.png" width="30%"></img>
 
  
 
