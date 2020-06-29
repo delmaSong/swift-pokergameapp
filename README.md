@@ -118,7 +118,7 @@ card class 안에서 패턴과 숫자를 함께 표시하기에 열거형이 접
 3. 하위 객체 속성에 간접 접근하도록 dealer와 player 안에 메소드 추가
 4. 테스트 코드 변경
 
-<img src="https://user-images.githubusercontent.com/40784518/75237536-dd0cbd80-5802-11ea-8cb4-41f28e9217a6.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/40784518/75237536-dd0cbd80-5802-11ea-8cb4-41f28e9217a6.png" width="50%"></img>
 
 
 
